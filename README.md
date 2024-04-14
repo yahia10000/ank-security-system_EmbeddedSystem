@@ -1,4 +1,4 @@
-# ank-security-system_EmbeddedSystem
+# bank-security-system_EmbeddedSystem
 a cutting-edge bank security system! Powered by ATmega16 Microcontrollers at 16MHz, it seamlessly integrates LCDs, LEDs, buzzers, and keypads.
 
 🔐 Key Features:
